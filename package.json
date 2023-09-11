@@ -1,0 +1,23 @@
+{
+  "name": "rwas-lending",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dang dinh quy",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.17.1"
+  },
+  "dependencies": {
+    "@bisonai/orakl-contracts": "^1.1.0",
+    "@chainlink/contracts": "^0.6.1",
+    "@klaytn/contracts": "^1.0.6",
+    "@openzeppelin/contracts": "^4.9.3",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.7.1"
+  }
+}
